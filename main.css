@@ -32,3 +32,11 @@ hr {
      margin: 30px; 
      color: #008;
      }
+
+a, a:visited { 
+    color: #339;
+    }
+
+a:hover { 
+          color: #000;
+          }
