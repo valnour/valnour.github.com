@@ -33,6 +33,17 @@ hr {
      color: #008;
      }
 
+#buttons { 
+           width: 100%;
+           text-align:center;
+           margin: 0px; padding: 0px;
+           }
+
+#buttons img { 
+               border: 0px;
+               margin: 5px; padding: 0px;
+               }
+
 a, a:visited { 
     color: #339;
     }
